@@ -1,0 +1,7 @@
+[followUpEngine]
+astConfig = /etc/astguiclient.conf
+smsUrl = /api/v3/sms/sendsms.json
+rvmUrl = /api/v3/calls/makervm.json
+emailUrl = /api/v3/email/sendemails.json
+carrierUrl = /api/v3/carrier/lookup.json
+lnpExpire = 2419200
